@@ -1491,7 +1491,7 @@ class PromptGenerator:
 
 
 NODE_CLASS_MAPPINGS = {
-    "PromptGenerator": PromptGenerator,
+    "PromptGenerator": CanBot,
     "CSL": CommaSeparatedList,
 }
 
