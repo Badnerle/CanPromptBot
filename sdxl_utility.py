@@ -1497,6 +1497,6 @@ NODE_CLASS_MAPPINGS = {
 
 # Human readable names for the nodes
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "PromptGenerator": "SDXL Auto Prompter",
+    "PromptGenerator": "CanBot",
     "CSL": "Comma Separated List"
 }
